@@ -1,19 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/28510687/73261314-67f79980-41fe-11ea-8055-3e8692df90db.png" width="200" height="200" alt="hay" />
-</p>
-
-<h1 align="center">
-  <strong>ALNOTE</strong>
-</h1>
-
-<p align="center">
-  </a>&nbsp;&nbsp;&nbsp;<a href="mailto:enjel.hutasoit@gmail.com"><img src="https://img.shields.io/badge/Email-enjel.hutasoit@gmail.com-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/enjelhutasoit" target="_blank"><img src="https://img.shields.io/badge/linkedin-enjelhutasoit-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" >  
-</a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/enjelhutasoit" target="_blank"><img src="https://img.shields.io/badge/twitter-enjelhutasoit-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
-
-
-
 Alnote is an iOS notes taking app for you who just want to (c)reate, (r)ead, (u)pdate, and (d)elete your notes easily.
 With CoreData makes you can use the app in offline mode.
 
@@ -24,7 +8,8 @@ _Alnote - Notes for unlimited ideas!_
 UI Tests target was added by Katarzyna Javaheri-Szpak
 
 To run the tests, XCode and simulator with at least iOS 14.0 is needed.
-Please find "AlnoteUITests" directory, choose device, open AlnoteUITests.swift file and run "AlnoteUITests: XCTestCase" class by clicking small "Play" button next to the name of thw class.
+
+Please find "AlnoteUITests" directory, choose device, open AlnoteUITests.swift file and run "AlnoteUITests: XCTestCase" class by clicking small "Play" button next to the name of the class.
 
 Test suite contains of 3 test cases.
 
